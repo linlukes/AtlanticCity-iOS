@@ -1,0 +1,12 @@
+#
+# Xcode files
+#
+.DS_Store
+xcuserdata
+
+#
+# build directory
+#
+/build/LASTBUILD
+/build/[0-9]*_[0-9]*Z
+Pods
